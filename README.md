@@ -1,0 +1,3 @@
+# ArticleArgonTemplate
+
+ArticleArgonTemplate是一个开箱即用的LaTeX文档模板，基于自定义文档类ArticleArgon和自定义宏包Minimus，亦作为其测试环境。
