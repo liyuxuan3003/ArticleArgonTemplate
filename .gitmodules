@@ -14,3 +14,7 @@
 	path = Article/standalone-silicon
 	url = git@Lithium:LaTeX/StandaloneSilicon.git
 	branch = dev
+[submodule "PyJool"]
+	path = Article/pyjool
+	url = git@Lithium:LaTeX/PyJool.git
+	branch = dev
