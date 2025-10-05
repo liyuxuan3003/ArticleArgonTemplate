@@ -1,16 +1,20 @@
 [submodule "Minimus"]
 	path = Article/minimus
 	url = git@Lithium:LaTeX/Minimus.git
-	branch = dev
+	branch = master
 [submodule "ArticleArgon"]
 	path = Article/article-argon
 	url = git@Lithium:LaTeX/ArticleArgon.git
-	branch = dev
+	branch = master
 [submodule "MakefileLaTeX"]
 	path = Article/makefile-latex
 	url = git@Lithium:LaTeX/MakefileLaTeX.git
-	branch = dev
+	branch = master
 [submodule "StandaloneSilicon"]
 	path = Article/standalone-silicon
 	url = git@Lithium:LaTeX/StandaloneSilicon.git
-	branch = dev
+	branch = master
+[submodule "PyJool"]
+	path = Article/pyjool
+	url = git@Lithium:LaTeX/PyJool.git
+	branch = master
