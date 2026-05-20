@@ -45,7 +45,7 @@ ArticleArgonTemplate    # The root of git repo
 |- .gitmodules
 |- init.sh
 |- README.md
-|- ArticleArgon.md
+|- ArticleArgonTemplate.md
 ```
 
 请注意，根目录下仅有`.gitignore`和`README.md`等文件，代码均位于一个二级目录下！

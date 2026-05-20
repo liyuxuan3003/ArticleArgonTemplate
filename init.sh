@@ -6,7 +6,7 @@ set -euo pipefail
 # Config
 DIR_TEMPLATE="Article"
 FILE_MAIN="Article.tex"
-FILE_README="ArticleArgon.md"
+FILE_README="ArticleArgonTemplate.md"
 
 # Usage
 usage() {
